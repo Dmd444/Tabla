@@ -1,0 +1,5 @@
+com\dmd\tabla\PrimaryController.class
+com\dmd\tabla\TablaMultiplicar.class
+com\dmd\tabla\SecondaryController.class
+module-info.class
+com\dmd\tabla\App.class
